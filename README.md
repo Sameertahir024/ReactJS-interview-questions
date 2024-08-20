@@ -4,16 +4,13 @@
 
 | No  | Questions                                                                                                    |
 | --- | ------------------------------------------------------------------------------------------------------------ |
-| 1   | [What is object-oriented Programming?](#answer-1)                                                            |
-| 2   | [How does JavaScript support OOP?](#answer-2)      
-| 3   | [Why is OOPs so popular?](#answer-3)|
-| 4   | [What is the difference between OOP and SOP?](#answer-4)                                                     |
-| 5   | [What are the four main principles of OOP?](#answer-5)          
-| 6   | [How do you implement Inheritance in JavaScript?](#answer-6)                                                 |
-| 7   | [How do you implement polymorphism in JavaScript?](#answer-7)                                                |
-| 8   | [How do you implement Encapsulation in JavaScript?](#answer-8)                                               |
-| 9   | [How do you implement abstraction in JavaScript?](#answer-9)                                                 |
-| 10  | [How do you create an object in JavaScript?](#answer-10)                                                     |
+| 1   | [What is React? What is the Role of React in software development?](#answer-1)                                                            |
+| 2   | [What is DOM? What is the difference between HTML and DOM?](#answer-2)      
+| 3   | [What is Virtual DOM? Difference between DOM and Virtual DOM?](#answer-3)|
+| 4   | [What are React Components? What are the main elements of it?](#answer-4)                                                     |
+| 5   | [What is SPA(Single Page Application)?](#answer-5)          
+| 6   | [What is the role of JSX in React?](#answer-6)                                                 |
+| 7   | [What is the difference between Declarative & Imperative syntax?](#answer-7)                                                |
 | 11  | [ What is Arrow Function Expression in JSX?](#answer-11)                                                             |
 | 12  | [. How to Setup React first project?](#answer-12)                                            |
 | 13  | [What are the Main Files in a React project?](#answer-13)                                               |
